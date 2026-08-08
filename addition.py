@@ -1,4 +1,4 @@
-add def add(a, b):
+add def (a, b):
     return a + b
 if __name__ == "__main__":
     x = 5   
